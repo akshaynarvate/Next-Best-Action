@@ -8,5 +8,5 @@
 ### Executive class has less prople yet have high rate of churn
 ### Avg years spend with the bank is 14
 ### Test Accuracy
-	XGBoost  |	Random Forest|	Logistic Regression
+	XGBoost  |    Random Forest  |	Logistic Regression
 	82.00%   |          84.00    |        82.00%
