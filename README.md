@@ -1,7 +1,8 @@
 # Next-Best-Action for Standard Bank
-# Proactively finding whether the customer is going to churn or not.
 
-# Random Forest gave best accuracy with greater stability
+### Proactively finding whether the customer is going to churn or not.
+
+### Random Forest gave best accuracy with greater stability
 
 ### Analysis
 ### The Target variable is highly imbalannced
